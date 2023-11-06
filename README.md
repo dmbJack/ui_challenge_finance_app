@@ -1,16 +1,14 @@
-# ui_challenge_finance_app
 
-A new Flutter project.
+# Financial Apps UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Acknowledgements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - [dribbble App UI](https://dribbble.com/shots/22909091-Cloud-Finance-Financial-Management-Dashboard-UI)
+
+
+## Screenshots
+
+![First screen](https://firebasestorage.googleapis.com/v0/b/github-assets.appspot.com/o/financial-app-ui%2Fscreen.png?alt=media&token=4bf39650-ee92-4eb3-b457-1011ef7da5de&_gl=1*1gasjx1*_ga*NDYzODk1NjAxLjE2OTkyODM2MDM.*_ga_CW55HF8NVT*MTY5OTI4MzYwMy4xLjEuMTY5OTI4NTYxNi42MC4wLjA.)
